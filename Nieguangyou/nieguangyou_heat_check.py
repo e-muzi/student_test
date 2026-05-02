@@ -12,5 +12,4 @@ for i in range(0,len(peptide_list)):
     highest_no = i + 1
 print("The",highest_no, "st/nd/rd/th peptide has the best heat resistence index")
 print("Which is", peptide_list[highest_no-1])
-
 #it seems like i've done many negative improvements to the program yay! Let's go time complexity as i hv to loop once~
